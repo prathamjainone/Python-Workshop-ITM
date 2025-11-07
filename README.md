@@ -10,4 +10,4 @@ This repository tracks my daily work, code, and notes for the Python Workshop.
 * **Day_05:** Loops and Functions
 
 ---
-**Last Updated:** November 4, 2025
+**Last Updated:** November 7, 2025
