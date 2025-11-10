@@ -1,0 +1,10 @@
+Movie_ID,Title,Genre,Release_Year,IMDb_Rating,Runtime_min,Budget_Million_USD,Revenue_Million_USD,Director,Profit_Million_USD,loss
+3,The Dark Knight,Action,2008,9.0,152,185.0,1004.9,Christopher Nolan,819.9,-819.9
+7,Inception,Sci-Fi,2010,8.8,148,160.0,836.8,Christopher Nolan,676.8,-676.8
+15,Gladiator,Action,2000,8.5,155,103.0,460.5,Ridley Scott,357.5,-357.5
+26,Interstellar,Sci-Fi,2014,8.7,169,165.0,701.7,Christopher Nolan,536.7,-536.7
+34,WALL·E,Animation,2008,8.4,98,180.0,533.2,Andrew Stanton,353.2,-353.20000000000005
+42,Up,Animation,2009,8.3,96,175.0,735.1,Pete Docter,560.1,-560.1
+45,Zootopia,Animation,2016,8.0,108,150.0,1023.8,Byron Howard,873.8,-873.8
+47,How to Train Your Dragon,Animation,2010,8.1,98,165.0,494.9,Dean DeBlois,329.9,-329.9
+49,Mad Max: Fury Road,Action,2015,8.1,120,150.0,378.9,George Miller,228.9,-228.89999999999998

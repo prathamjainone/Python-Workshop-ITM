@@ -1,0 +1,51 @@
+﻿Movie_ID,Title,Genre,Release_Year,IMDb_Rating,Runtime_min,Budget_Million_USD,Revenue_Million_USD,Director,Profit_Million_USD
+1,The Shawshank Redemption,Drama,1994,9.3,142,25,28.3,Frank Darabont,3.3
+2,The Godfather,Crime,1972,9.2,175,6,246.1,Francis Ford Coppola,240.1
+3,The Dark Knight,Action,2008,9,152,185,1004.9,Christopher Nolan,819.9
+4,Pulp Fiction,Crime,1994,8.9,154,8,213.9,Quentin Tarantino,205.9
+5,Schindler's List,Biography,1993,8.9,195,22,322.1,Steven Spielberg,300.1
+6,Forrest Gump,Drama,1994,8.8,142,55,677.4,Robert Zemeckis,622.4
+7,Inception,Sci-Fi,2010,8.8,148,160,836.8,Christopher Nolan,676.8
+8,Fight Club,Drama,1999,8.8,139,63,100.9,David Fincher,37.9
+9,The Lord of the Rings: The Fellowship of the Ring,Adventure,2001,8.8,178,93,898.2,Peter Jackson,805.2
+10,The Matrix,Sci-Fi,1999,8.7,136,63,465.3,Lana Wachowski,402.3
+11,Goodfellas,Biography,1990,8.7,146,25,46.8,Martin Scorsese,21.8
+12,Star Wars: Episode IV - A New Hope,Sci-Fi,1977,8.6,121,11,775.4,George Lucas,764.4
+13,The Green Mile,Drama,1999,8.6,189,60,286.8,Frank Darabont,226.8
+14,Léon: The Professional,Crime,1994,8.5,110,16,46.1,Luc Besson,30.1
+15,Gladiator,Action,2000,8.5,155,103,460.5,Ridley Scott,357.5
+16,Whiplash,Drama,2014,8.5,106,3.3,49,Damien Chazelle,45.7
+17,The Prestige,Drama,2006,8.5,130,40,109.5,Christopher Nolan,69.5
+18,The Lion King,Animation,1994,8.5,88,45,968.5,Roger Allers,923.5
+19,Alien,Sci-Fi,1979,8.4,117,11,104.9,Ridley Scott,93.9
+20,Spirited Away,Animation,2001,8.6,125,19,395.6,Hayao Miyazaki,376.6
+21,Saving Private Ryan,War,1998,8.6,169,70,481.8,Steven Spielberg,411.8
+22,Back to the Future,Sci-Fi,1985,8.5,116,19,381.1,Robert Zemeckis,362.1
+23,The Pianist,Biography,2002,8.5,150,35,120,Roman Polanski,85
+24,Parasite,Comedy,2019,8.5,132,11,258,Bong Joon Ho,247
+25,Joker,Crime,2019,8.4,122,55,1074.2,Todd Phillips,1019.2
+26,Interstellar,Sci-Fi,2014,8.7,169,165,701.7,Christopher Nolan,536.7
+27,The Departed,Crime,2006,8.5,151,90,289.8,Martin Scorsese,199.8
+28,Eternal Sunshine of the Spotless Mind,Sci-Fi,2004,8.3,108,20,72.3,Michel Gondry,52.3
+29,Reservoir Dogs,Crime,1992,8.3,99,1.2,2.8,Quentin Tarantino,1.6
+30,Toy Story,Animation,1995,8.3,81,30,373.6,John Lasseter,343.6
+31,Braveheart,Biography,1995,8.4,178,72,210.4,Mel Gibson,138.4
+32,Amélie,Comedy,2001,8.3,122,10,174.2,Jean-Pierre Jeunet,164.2
+33,Inglourious Basterds,Adventure,2009,8.3,153,70,321.5,Quentin Tarantino,251.5
+34,WALL·E,Animation,2008,8.4,98,180,533.2,Andrew Stanton,353.2
+35,V for Vendetta,Action,2005,8.2,132,54,132.5,James McTeigue,78.5
+36,The Grand Budapest Hotel,Comedy,2014,8.1,99,25,174.6,Wes Anderson,149.6
+37,Snatch,Crime,2000,8.2,102,10,30,Guy Ritchie,20
+38,Oldboy,Action,2003,8.4,120,3,15,Park Chan-wook,12
+39,The Sixth Sense,Drama,1999,8.1,107,40,672.8,M. Night Shyamalan,632.8
+40,Deadpool,Action,2016,8,108,58,783.1,Tim Miller,725.1
+41,Django Unchained,Western,2012,8.4,165,100,449.2,Quentin Tarantino,349.2
+42,Up,Animation,2009,8.3,96,175,735.1,Pete Docter,560.1
+43,Rush,Biography,2013,8.1,123,38,90.2,Ron Howard,52.2
+44,Prisoners,Drama,2013,8.1,153,46,122.1,Denis Villeneuve,76.1
+45,Zootopia,Animation,2016,8,108,150,1023.8,Byron Howard,873.8
+46,No Country for Old Men,Crime,2007,8.2,122,25,171.6,Coen Brothers,146.6
+47,How to Train Your Dragon,Animation,2010,8.1,98,165,494.9,Dean DeBlois,329.9
+48,The Wolf of Wall Street,Biography,2013,8.2,180,100,392,Martin Scorsese,292
+49,Mad Max: Fury Road,Action,2015,8.1,120,150,378.9,George Miller,228.9
+50,Arrival,Sci-Fi,2016,7.9,116,47,203.4,Denis Villeneuve,156.4
