@@ -8,7 +8,8 @@ This repository tracks my daily work, code, and notes for the Python Workshop.
 * **Day_03:** Python Test, Sets and Tuple
 * **Day_04:** Dict and Conditions
 * **Day_05:** Loops and Functions
-* **Day_06:** Class,Numpy,Pandas
+* **Day_06:** Class,Numpy
+* **Day_06:** Pandas,matplotlib
 
 ---
 **Last Updated:** November 7, 2025
